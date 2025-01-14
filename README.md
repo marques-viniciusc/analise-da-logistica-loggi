@@ -24,6 +24,7 @@ Este projeto utiliza um notebook Jupyter para analisar dados logísticos da Logg
 - `deliveries.json`: Dados de entregas.
 - `deliveries-geodata.csv`: Geolocalização de hubs e entregas.
 - `distrito-federao.zip`: Conjunto dos dados para mapeamento.
+- `requirements.txt`: Bibliotecas necessárias para o funcionamento do projeto.
 
 ## Baixando os Dados
 
