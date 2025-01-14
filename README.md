@@ -19,11 +19,8 @@ Este projeto utiliza um notebook Jupyter para analisar dados logísticos da Logg
 
 ## Estrutura do Repositório
 
+- `Projeto_de_estudo_Análise_da_logística_da_empresa_Loggi.ipynb`: Notebook com o código e análises.
 - `README.md`: Documentação do projeto.
-`Projeto_de_estudo_Análise_da_logística_da_empresa_Loggi.ipynb`: Notebook com o código e análises.
-- `deliveries.json`: Dados de entregas.
-- `deliveries-geodata.csv`: Geolocalização de hubs e entregas.
-- `distrito-federao.zip`: Conjunto dos dados para mapeamento.
 - `requirements.txt`: Bibliotecas necessárias para o funcionamento do projeto.
 
 ## Baixando os Dados
